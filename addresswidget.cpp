@@ -52,7 +52,7 @@
 #include "adddialog.h"
 
 #include <QtWidgets>
-
+////
 //! [0]
 AddressWidget::AddressWidget(QWidget *parent)
     : QTabWidget(parent),
